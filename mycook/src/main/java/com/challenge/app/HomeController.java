@@ -19,6 +19,7 @@ public class HomeController {
 	// comment 1
 	// comment 2
 	// feature 1
+	// feature 1 2
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
 	/**
